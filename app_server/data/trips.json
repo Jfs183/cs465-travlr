@@ -1,0 +1,26 @@
+[
+  {
+    "code": "HAWAII",
+    "name": "Hawaiian Escape",
+    "length": "5 nights",
+    "price": 1799,
+    "image": "images/reef1.jpg",
+    "description": "A relaxing island vacation with ocean views."
+  },
+  {
+    "code": "CARIB",
+    "name": "Caribbean Getaway",
+    "length": "7 nights",
+    "price": 1999,
+    "image": "images/reef2.jpg",
+    "description": "White sand beaches and crystal clear water in the Caribbean."
+  },
+  {
+    "code": "EURO",
+    "name": "European Adventure",
+    "length": "10 nights",
+    "price": 2599,
+    "image": "images/reef3.jpg",
+    "description": "Explore historic cities, landmarks, and rich European culture."
+  }
+]
